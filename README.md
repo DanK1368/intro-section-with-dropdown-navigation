@@ -14,11 +14,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./images/screenshot.png)
 
 ### Links
 
-- Live Site URL: [Click Here](https://your-live-site-url.com)
+- Live Site URL: [Click Here](https://dank1368.github.io/intro-section-with-dropdown-navigation/)
 
 ## My process
 
