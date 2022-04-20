@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/intro-section-with-dropdown-navigation/static/js/main.ebd7379c.js",
+    "main.js": "/intro-section-with-dropdown-navigation/static/js/main.c51e1548.js",
     "index.html": "/intro-section-with-dropdown-navigation/index.html",
-    "main.ebd7379c.js.map": "/intro-section-with-dropdown-navigation/static/js/main.ebd7379c.js.map"
+    "main.c51e1548.js.map": "/intro-section-with-dropdown-navigation/static/js/main.c51e1548.js.map"
   },
   "entrypoints": [
-    "static/js/main.ebd7379c.js"
+    "static/js/main.c51e1548.js"
   ]
 }
