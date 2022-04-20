@@ -23,7 +23,7 @@ export const StyledNavBar = styled.div`
   width: 100%;
 
   @media screen and (max-width: ${({ theme }) => theme.breakpoint.small}) {
-    position: absolute;
+    position: fixed;
     top: 0;
     left: 0;
     height: 100vh;
